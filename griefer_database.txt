@@ -1,0 +1,9 @@
+// GSTFO Payday 3 Griefer Database
+// Do not go out of your way to harrass anybody on this list.
+
+Name_A
+GrieferB
+FatherlessChild
+Console_Kiddie
+StealthAndy
+
