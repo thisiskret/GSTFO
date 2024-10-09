@@ -50,7 +50,7 @@ b) Orange:
 **Purposefully malicious acts that negatively affect the other heisters.** Easier to appeal than Red-level bans.
 * Mass-Killing civs (genocide)
 * Refusing to kill enemies (via a kill-counter HUD mod only)
-* Refusing to communicate to force an objective early such as calling the Helicopter on Dirty Ice early or taking out the USB on F&G early. Case by case basis for these reports as it may be a mistake. Repeat offenders only possibly
+* Refusing to communicate to force an objective early such as calling the Helicopter on Dirty Ice early or taking out the USB on F&G early. Case by case basis for these reports as it may be a mistake.
 * Preventing objectives outright to force their way of playing (Example: Killing the manager on dirty ice so the other heisters can't clean)
 * Wasting limited resources on purpose (ARKs, FAKs or Medic Bags, must be spam consuming them to be considered griefing)
 * Intentionally standing infront of or blocking view of a heister to annoy them (like a child)
