@@ -1,9 +1,5 @@
-// GSTFO Payday 3 Griefer Database
-// Do not go out of your way to harrass anybody on this list.
+// Payday 3 Confirmed Griefer Database for GSTFO mod (Griefers Stay The Fuck Out)
 
-Name_A
-GrieferB
-FatherlessChild
-Console_Kiddie
-StealthAndy
-
+// Do not go out of your way to harass anybody on the database. You are just as much of a fucking loser if you do and should touch grass.
+// Severity ratings and evidence for each griefer can be found in the Discord server. If you are on this list, you must appeal in said discord server to remove it.
+// Link to the discord server: https://discord.gg/PknfE7KHVe | Link to the github repo: https://github.com/thisiskret/GSTFO
