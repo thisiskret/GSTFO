@@ -42,11 +42,11 @@ If you want to ask further questions, feel free to ask in our [discord](https://
 
 # Severity Ratings definitions, criterias and lengths:
 
-**a) Red:**
+**a) Red:** 
 **Deliberate malicious acts that hold a lobby hostage and/or waste people's time as much as possible.**
-This also includes permanently hogging heist equipment or bags needed to progress or finish a heist. (Example: Road Rage's EMP)
+* This also includes permanently hogging heist equipment or bags needed to progress or finish a heist. (Example: Road Rage's EMP)
 
-**b) Orange:**
+**b) Orange:** 
 **Purposeful malicious acts that negatively affect the other heisters.** Easier to appeal than Red-level bans.
 * Mass-Killing civs
 * Refusing to kill enemies (via a kill-counter HUD mod only)
