@@ -1,7 +1,6 @@
-# GSTFO (Griefers Stay The Fuck Out)
-GSTFO is a *concept* mod for Payday 3 that uses an open-source and evidence-based database of confirmed griefers; it detects said griefers found on the database and blocks them for you automatically.
-
-After over a year of Griefers running rampant in PD3, with them facing no consequences, it's time we take back control.
+# PD3 Confirmed Griefer Database / "GSTFO" (Griefers Stay The Fuck Out)
+GSTFO was a concept mod for Payday 3 that uses an open-source and evidence-based database of confirmed griefers for players to manually block. Blocking users in Payday 3 prevents them ever joining into your games.
+Alongside Host Kick, players can use this secondary layer of protection to prevent griefing **before it even happens.**
 
 **To report a griefer or appeal your ban, join our discord server: https://discord.gg/PknfE7KHVe**
 You can also join to discuss GSTFO or ask questions. 
@@ -9,9 +8,8 @@ You can also join to discuss GSTFO or ask questions.
 # FAQ (Read this)
 
 # 1. Why?
-* Compared to Payday 2, Payday 3 has a very, very small and tight-knit active playerbase. If the game has just 2000 active players, it only takes 200 griefers to ruin every 2nd to 3rd heist. (do the math!) We've endured an entire year of griefers with little to no way of fighting back or preventing them joining our games. This mod is the first step before player kicking is added.
+* Compared to Payday 2, Payday 3 has a very, very small and tight-knit active playerbase. If the game has just 2000 active players, it only takes 200 griefers to ruin every 2nd to 3rd heist. (do the math!) We've endured an entire year of griefers with little to no way of fighting back or preventing them joining our games. The database now serves as secondary protection against griefers, preventing them from even encountering you.
 * This mod would also benefit not just the lobby leaders, but the one or two other heisters that could be present in your game, who would otherwise have to also suffer at the hands of a griefer. This mod benefits more heisters the more it's used.
-
 * **TL:DR: PD3 suffers more from griefing than PD2.**
 
 # 3. Are all Griefers permanently on the database?
@@ -27,8 +25,9 @@ Originally only Red bans were permanent, but I've decided we do not want time to
 * No. It would be irresponsible and down-right dangerous if the database ran on weak or limited evidence, as the mod would not be trusted. Every griefer report must have an accompanying video clip in good, readable 1080p HD quality.
 * The Severity rating of their griefing can be suggested with the report, but can be changed by a mod if deemed neccessary.
 
-# 5. Why not implement this with kicking once it's added?
+# 5. Why not implement this with kicking?
 * The original concept for GSTFO was "GGTFO" which would kick griefers once they're in the heist. GGTFO has several flaws and ways to exploit/reverse-engineer it, so for general safety and QoL, GSTFO will remain a mod that only blocks griefers. It's more convenient for the user anyways.
+* With the long overdue addition of kicking, GSTFO is renaming to just **"Payday 3 Confirmed Griefer Database"** instead of GSTFO. The mod now serves as **secondary protection** against griefers to prevent it from occuring in the first place.
 
 # 6. Wouldn't this make the game less beginner/noob-friendly like NGBTO?
 * No, We will only accept reports for griefers of infamy 130 and above, on Overkill difficulty, on loud heists. Otherwise the player would be deemed too new or clueless to be added to the database.
